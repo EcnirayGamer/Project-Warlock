@@ -34,6 +34,9 @@
   },
   "name":"Project Warlock",
   "resources":[
+    {"id":{"name":"Ritual","path":"objects/Ritual/Ritual.yy",},},
+    {"id":{"name":"Rune","path":"objects/Rune/Rune.yy",},},
+    {"id":{"name":"RuneSpot","path":"objects/RuneSpot/RuneSpot.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
